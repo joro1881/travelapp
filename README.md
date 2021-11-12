@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # travelapp
 training vue router 4 with vuejs 3
-=======
-# vue-router4-app
 
 ## Project setup
 ```
@@ -25,5 +22,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 5423fe9... publish app
+See [Configuration Reference](https://cli.vuejs.org/config/)
